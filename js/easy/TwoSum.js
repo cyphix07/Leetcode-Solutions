@@ -14,3 +14,21 @@ var twoSum = function (nums, target) {
     }
   }
 };
+
+/* Runtime
+95
+ms
+Beats
+30.83%
+of users with JavaScript
+
+
+
+
+Memory
+49.13
+MB
+Beats
+5.03%
+of users with JavaScript
+*/
